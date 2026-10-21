@@ -1,0 +1,6 @@
+feature,importance,direction,churners_stat,nonchurners_stat,effect_size,note,suggested_action
+total_day_minutes,0.20920296078168593,higher_risk,0.5334628722386449,-0.08726736924369365,0.6355168357698747,,Offer right-sized plans; target over/under-utilizers with offers.
+number_customer_service_calls,0.1502643891114321,higher_risk,0.5592137567780232,-0.09147986849414623,0.6678079060061499,,Proactive support for at-risk users; reduce friction in help channels.
+international_plan,0.1067846027566493,higher_risk,no,no,0.8213239789991369,Highest churn at level: yes,Re-evaluate plan fit and add-ons; communicate alternatives.
+total_day_charge,0.10046252544268644,higher_risk,0.5334387691978689,-0.08726342630957633,0.635486719782003,,Review pricing/discounts; offer plan optimization for high spenders.
+total_intl_calls,0.060378478063284086,higher_risk,-0.06483942246467912,0.010606859663968519,-0.0754500383487229,,Proactive support for at-risk users; reduce friction in help channels.
